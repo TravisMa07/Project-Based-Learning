@@ -25,7 +25,6 @@ Projects are organized into difficulty tiers, with each tier introducing more ad
 
 - Tier 1 — **Beginner**: Introductory projects with lower complexity and a smaller scope
 - Tier 2 — **Intermediate**: Projects with increased complexity, depth, and problem-solving requirements
-- Tier 3 — **Advanced**: More challenging projects with larger scope and deeper technical requirements
-- Tier 4 — **Expert**: Highly complex projects involving substantial depth, integration, and independent problem-solving
+- Tier 3 — **Advanced**: Highly complex projects involving substantial depth, integration, and independent problem-solving
 
 Each project will contain its own documentation, source code, requirements, and any supporting resources needed to understand and run it.
